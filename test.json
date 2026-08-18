@@ -1,0 +1,20 @@
+[
+  {
+    "id": "char_01",
+    "type": "warrior",
+    "name": "Aron",
+    "level": 10
+  },
+  {
+    "id": "char_02",
+    "type": "mage",
+    "name": "Elena",
+    "level": 14
+  },
+  {
+    "id": "char_03",
+    "type": "archer",
+    "name": "Kael",
+    "level": 8
+  }
+]
